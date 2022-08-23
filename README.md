@@ -6,4 +6,7 @@
 ## Tecnologias utilizadas
 
 - React
+- HTML
+- CSS
+- JS
 - Api https://viacep.com.br/
