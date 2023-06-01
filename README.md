@@ -23,11 +23,9 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 # Clone este repositório
 https://github.com/IvancLourenco/react-buscador-cep.git
 ```
-### Como Rodar e testar o  projeto
-- #### Acesse a pasta do projeto
-- #### abra o Terminal na pasta do projeto
-- #### digite "npm install" dentro da pasta do projeto, para adicionar as dependências do projeto
- - #### digite no terminal npm start assim abrira a pagina do projeto podendo testa-lo.
+### Veja o projeto clicando aqui embaixo.
+- https://react-buscador-ioseg9e9m-ivanclourenco.vercel.app/
+
 
  
 
